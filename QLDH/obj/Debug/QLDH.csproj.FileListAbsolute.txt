@@ -1,0 +1,227 @@
+D:\KHAI\QLDH\QLDH\bin\Debug\QLDH.exe.config
+D:\KHAI\QLDH\QLDH\bin\Debug\QLDH.exe.manifest
+D:\KHAI\QLDH\QLDH\bin\Debug\QLDH.application
+D:\KHAI\QLDH\QLDH\bin\Debug\QLDH.exe
+D:\KHAI\QLDH\QLDH\bin\Debug\QLDH.pdb
+D:\KHAI\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\KHAI\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+D:\KHAI\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\KHAI\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\KHAI\QLDH\QLDH\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.csproj.AssemblyReference.cache
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoKH.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoNCC.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoDanhThu.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuChi.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuThu.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmPhieuChi.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangNhap.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangXuat.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoTonKho.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucHangHoa.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmDangNhap.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucKhachHang.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucNhaCungCap.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmDatHang.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmDoiMatKhau.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmGioiThieu.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmMain.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmNhapHang.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmQuanLyNguoiDung.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmPhieuThu.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.frmXuatHang.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.Properties.Resources.resources
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.csproj.GenerateResource.cache
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.csproj.CoreCompileInputs.cache
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.exe.manifest
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.application
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.csproj.CopyComplete
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.exe
+D:\KHAI\QLDH\QLDH\obj\Debug\QLDH.pdb
+F:\QLDH\QLDH\obj\Debug\QLDH.csproj.AssemblyReference.cache
+F:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoKH.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoNCC.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoDanhThu.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuChi.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuThu.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmPhieuChi.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangNhap.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangXuat.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoTonKho.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucHangHoa.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmDangNhap.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucKhachHang.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucNhaCungCap.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmDatHang.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmDoiMatKhau.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmGioiThieu.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmMain.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmNhapHang.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmQuanLyNguoiDung.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmPhieuThu.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.frmXuatHang.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.Properties.Resources.resources
+F:\QLDH\QLDH\obj\Debug\QLDH.csproj.GenerateResource.cache
+F:\QLDH\QLDH\obj\Debug\QLDH.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoKH.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoNCC.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoDanhThu.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuChi.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuThu.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmPhieuChi.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangNhap.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangXuat.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoTonKho.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucHangHoa.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmDangNhap.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucKhachHang.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucNhaCungCap.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmDatHang.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmDoiMatKhau.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmGioiThieu.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmMain.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmNhapHang.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmQuanLyNguoiDung.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmPhieuThu.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.frmXuatHang.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.Properties.Resources.resources
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\QLDH\QLDH\bin\Debug\QLDH.exe.config
+C:\Users\USER\Desktop\QLDH\QLDH\bin\Debug\QLDH.exe.manifest
+C:\Users\USER\Desktop\QLDH\QLDH\bin\Debug\QLDH.application
+C:\Users\USER\Desktop\QLDH\QLDH\bin\Debug\QLDH.exe
+C:\Users\USER\Desktop\QLDH\QLDH\bin\Debug\QLDH.pdb
+C:\Users\USER\Desktop\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USER\Desktop\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\USER\Desktop\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\USER\Desktop\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\USER\Desktop\QLDH\QLDH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.exe.manifest
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.application
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.csproj.CopyComplete
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.exe
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.pdb
+C:\Users\USER\Desktop\QLDH\QLDH\obj\Debug\QLDH.csproj.AssemblyReference.cache
+E:\QLDH\QLDH\bin\Debug\QLDH.exe.config
+E:\QLDH\QLDH\bin\Debug\QLDH.exe.manifest
+E:\QLDH\QLDH\bin\Debug\QLDH.application
+E:\QLDH\QLDH\bin\Debug\QLDH.exe
+E:\QLDH\QLDH\bin\Debug\QLDH.pdb
+E:\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\QLDH\QLDH\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\QLDH\QLDH\obj\Debug\QLDH.csproj.SuggestedBindingRedirects.cache
+E:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoKH.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoNCC.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoDanhThu.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuChi.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuThu.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmPhieuChi.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangNhap.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangXuat.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoTonKho.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucHangHoa.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmDangNhap.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucKhachHang.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucNhaCungCap.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmDatHang.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmDoiMatKhau.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmGioiThieu.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmMain.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmNhapHang.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmQuanLyNguoiDung.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmPhieuThu.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.frmXuatHang.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.Properties.Resources.resources
+E:\QLDH\QLDH\obj\Debug\QLDH.csproj.GenerateResource.cache
+E:\QLDH\QLDH\obj\Debug\QLDH.csproj.CoreCompileInputs.cache
+E:\QLDH\QLDH\obj\Debug\QLDH.exe.manifest
+E:\QLDH\QLDH\obj\Debug\QLDH.application
+E:\QLDH\QLDH\obj\Debug\QLDH.csproj.CopyComplete
+E:\QLDH\QLDH\obj\Debug\QLDH.exe
+E:\QLDH\QLDH\obj\Debug\QLDH.pdb
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\QLDH.exe.config
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\QLDH.exe.manifest
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\QLDH.application
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\QLDH.exe
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\QLDH.pdb
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoKH.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoNCC.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoDanhThu.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuChi.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuThu.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmPhieuChi.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangNhap.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangXuat.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoTonKho.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucHangHoa.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDangNhap.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucKhachHang.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucNhaCungCap.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDatHang.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDoiMatKhau.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmGioiThieu.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmMain.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmNhapHang.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmQuanLyNguoiDung.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmPhieuThu.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmXuatHang.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.Properties.Resources.resources
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\RdlCompile.cache
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\RdlCompile.compiled
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.exe.manifest
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.application
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.csproj.CopyComplete
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.exe
+C:\Users\DELL\Documents\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.pdb
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\QLDH.exe.config
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\QLDH.exe.manifest
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\QLDH.application
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\QLDH.exe
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\QLDH.pdb
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoKH.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoCongNoNCC.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoDanhThu.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuChi.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmInPhieuThu.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmPhieuChi.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangNhap.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoHangXuat.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmBaoCaoTonKho.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucHangHoa.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDangNhap.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucKhachHang.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDanhMucNhaCungCap.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDatHang.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmDoiMatKhau.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmGioiThieu.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmMain.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmNhapHang.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmQuanLyNguoiDung.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmPhieuThu.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.frmXuatHang.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.Properties.Resources.resources
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.exe.manifest
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.application
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.csproj.CopyComplete
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.exe
+C:\Users\DELL\Documents\Tổng quát\Tổng quát Chuyên ngành\Công nghệ phần mềm\Đồ án cuối kì\QLDH\QLDH\obj\Debug\QLDH.pdb
